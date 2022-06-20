@@ -6,7 +6,7 @@ Hi, I'm a PhD student at the IMJ-PRG under the direction of Laurent Fargues.
   
 name.surname@imj-prg.fr
   
-![Me!](/images/257360896_606419187176947_5374486984023981324_n.jpg "Me"){:height="36px" width="36px"}
+![Me!](/images/257360896_606419187176947_5374486984023981324_n.jpg "Me"{:height="36px" width="36px"})
 
   
   
