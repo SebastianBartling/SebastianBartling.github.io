@@ -23,7 +23,7 @@ name.surname@imj-prg.fr
   
 2. Article on G-mu-Displays:
   
-<a href="/pdf/Kapitel_zu_G-mu-Displays.pdf" target="_blank">PDF.</a>
+<embed src="https://sebastianbartling.github.io/pdf/Artikel_zu_G-mu-Displays.pdf" type="application/pdf" />
   
 3. Article on étale Cohomology of the curve:
   
