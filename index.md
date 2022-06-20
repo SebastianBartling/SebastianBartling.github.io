@@ -8,7 +8,7 @@ nav_order: 1
   
 Hi, I'm a PhD student at the IMJ-PRG under the direction of Laurent Fargues.
   
-E-Mail:
+# E-Mail:
   
 name.surname@imj-prg.fr
   
@@ -25,3 +25,4 @@ name.surname@imj-prg.fr
   
 
 ## Thesis:
+
