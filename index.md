@@ -17,18 +17,23 @@ name.surname@imj-prg.fr
   
   
 ## Texts:
-1. Article on the Omega d=2:
+1. The universal special formal O_D-module for d=2:
   
 <a href="https://sebastianbartling.github.io/pdf/Kapitel_zum Omega,_d=2.pdf">Link</a>
   
-2. Article on G-mu-Displays:
+2. G-mu-Displays and local Shtuka:
   
 <a href="https://sebastianbartling.github.io/pdf/Kapitel_zu_G-mu-Displays.pdf">Link</a>
   
-3. Article on the étale cohomology of the curve:
+3. Sur la cohomologie étale de la courbe de Fargues-Fontaine:
   
 <a href="https://sebastianbartling.github.io/pdf/Chapitre_sur_la_cohomologie_étale_de_la_courbe.pdf">Link</a>
   
 
 ## Thesis:
+  
+The manuscript of my thesis (version 20.6.2022)
+  
+<a href="https://sebastianbartling.github.io/pdf/Ganze_Datei.pdf">Link</a>
+  
 
