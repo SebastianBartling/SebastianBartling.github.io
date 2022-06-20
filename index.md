@@ -8,7 +8,7 @@ nav_order: 1
   
 Hi, I'm a PhD student at the IMJ-PRG under the direction of Laurent Fargues.
   
-# E-Mail:
+### E-Mail:
   
 name.surname@imj-prg.fr
   
@@ -16,13 +16,13 @@ name.surname@imj-prg.fr
 
   
   
-## Texts:
+### Texts:
 1. The universal special formal O_D-module for d=2: <a href="https://sebastianbartling.github.io/pdf/Kapitel_zum Omega,_d=2.pdf">Link</a> 
 2. G-mu-Displays and local Shtuka: <a href="https://sebastianbartling.github.io/pdf/Kapitel_zu_G-mu-Displays.pdf">Link</a>
 3. Sur la cohomologie étale de la courbe de Fargues-Fontaine: <a href="https://sebastianbartling.github.io/pdf/Chapitre_sur_la_cohomologie_etale_de_la_courbe.pdf">Link</a>
   
 
-## Thesis:
+### Thesis:
   
 The manuscript of my thesis (version 20.6.2022)
   
