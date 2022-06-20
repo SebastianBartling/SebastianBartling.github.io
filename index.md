@@ -22,8 +22,11 @@ name.surname@imj-prg.fr
 ![Omega!](/pdf/Kapitel_zum_Omega,_d=2.pdf "Omega")
   
 2. Article on G-mu-Displays
+![Displays!](/pdf/Kapitel_zu_G-mu-Displays.pdf "Displays")
   
 3. Article on étale Cohomology of the curve
+  
+![Courbe](/pdf/Chapitre_sur_la_cohomologie_étale_de_la_courbe.pdf "courbe")
   
 
 ## Thesis:
