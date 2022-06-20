@@ -19,6 +19,8 @@ name.surname@imj-prg.fr
 ## Texts:
 1. Article on the Omega d=2 
   
+![Omega!](/pdf/ "Me")
+  
 2. Article on G-mu-Displays
   
 3. Article on étale Cohomology of the curve
