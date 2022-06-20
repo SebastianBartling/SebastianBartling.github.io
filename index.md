@@ -13,3 +13,15 @@ E-Mail:
 name.surname@imj-prg.fr
   
 ![Me!](/images/257360896_606419187176947_5374486984023981324_n.jpg "Me")
+
+  
+  
+## Texts:
+1. Article on the Omega d=2 
+  
+2. Article on G-mu-Displays
+  
+3. Article on étale Cohomology of the curve
+  
+
+## Thesis:
