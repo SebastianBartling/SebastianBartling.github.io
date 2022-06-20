@@ -4,9 +4,9 @@ Hi, I'm a PhD student at the IMJ-PRG under the direction of Laurent Fargues.
   
 ### E-Mail:
   
-name.surname@imj-prg.fr
-  
-![Me!](/images/257360896_606419187176947_5374486984023981324_n.jpg "Me"{:height="36px" width="36px"})
+name.surname@imj-prg.fr  
+
+<img src="https://sebastianbartling.github.io/images/257360896_606419187176947_5374486984023981324_n.jpg" alt="Me" width="250"/>
 
   
   
