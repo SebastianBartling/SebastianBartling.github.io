@@ -24,8 +24,6 @@ name.surname@imj-prg.fr
 
 ### Thesis:
   
-The manuscript of my thesis (version 20.6.2022)
-  
-<a href="https://sebastianbartling.github.io/pdf/Ganze_Datei.pdf">Link</a>
+The manuscript of my thesis (version 20.6.2022): <a href="https://sebastianbartling.github.io/pdf/Ganze_Datei.pdf">Link</a>
   
 
