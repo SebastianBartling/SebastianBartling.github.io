@@ -1,9 +1,3 @@
----
-title: <enter your title here>
-layout: default
-nav_order: 1
----
-  
 ### Sebastian Bartling
   
 Hi, I'm a PhD student at the IMJ-PRG under the direction of Laurent Fargues.
