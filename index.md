@@ -19,15 +19,15 @@ name.surname@imj-prg.fr
 ## Texts:
 1. Article on the Omega d=2:
   
-
+<a href="https://sebastianbartling.github.io/pdf/Kapitel_zum Omega,_d=2.pdf">Link</a>
   
 2. Article on G-mu-Displays:
   
-<a href="https://sebastianbartling.github.io/pdf/Kapitel_zu_G-mu-Displays.pdf">G-mu-Displays</a>
+<a href="https://sebastianbartling.github.io/pdf/Kapitel_zu_G-mu-Displays.pdf">Link</a>
   
-3. Article on étale Cohomology of the curve:
+3. Article on the étale cohomology of the curve:
   
-
+<a href="https://sebastianbartling.github.io/pdf/Chapitre_sur_la_cohomologie_étale_de_la_courbe.pdf">Link</a>
   
 
 ## Thesis:
