@@ -19,7 +19,7 @@ name.surname@imj-prg.fr
 ## Texts:
 1. Article on the Omega d=2 
   
-![Omega!](/pdf/ "Me")
+![Omega!](/pdf/Kapitel zum Omega, d=2.pdf "Omega")
   
 2. Article on G-mu-Displays
   
